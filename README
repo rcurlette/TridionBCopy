@@ -1,23 +1,13 @@
 TridionBCopy
-========
+
 Copy an item including all its' Blueprint-related children.
 
 Why?
-----------------------------
 Copying an item in Tridion only copies the parent item - and not any of the children.  
 
 Which items does it work with?
-------------------
 Components, Pages, Structure Groups, Folders
 
 Issues?
-------------
 Copying a Folder givs some security-related error, but the Fodler does copy fine and all children.
 
-
-Who?
-I'm [Robert Curlette][rcurlette] and I'm a Tridion Tools Coder
-
-
-[home]:http://www.curlette.com
-[robrtc]:http://twitter.com/robrtc
