@@ -6,8 +6,10 @@ Why?
 Copying an item in Tridion only copies the parent item - and not any of the children.  
 
 Which items does it work with?
-Components, Pages, Structure Groups, Folders
+Components, Pages, Structure Groups, Folders, Templates
+
+Note:  Does not copy items within a Folder or Structure Group
 
 Issues?
-Copying a Folder givs some security-related error, but the Fodler does copy fine and all children.
+Copying a Folder gives some security-related error, but the Folder does copy fine and all children.
 
